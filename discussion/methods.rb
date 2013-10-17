@@ -7,7 +7,7 @@ end
 
 students = [
   { "first_name" => "Emory", "last_name" => "Strother" },
-  { "first_name" => "Markus", "last_name" => "Mauke" }
+  { "first_name" => "Markus", "last_name" => "Maute" }
 ]
 
 students.each do |person|
